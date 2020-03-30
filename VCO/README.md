@@ -1,5 +1,6 @@
 # VCO
-Analog Voltage Controlled Oscillator based on the CEM3340.
+Analog Voltage Controlled Oscillator based on the CEM3340
+This is an adaptation of look mom no computer VCO for Eurorack format
 
 **schéma prototype.DSN** : ISIS file for the schematic
 
