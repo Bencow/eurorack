@@ -1,5 +1,8 @@
-schéma prototype.DSN : ISIS file for the schematic
+# VCO
+Analog Voltage Controlled Oscillator based on the CEM3340.
 
-pannel VCO v1.svg : SVG file with the dimensions of the pannel
+**schéma prototype.DSN** : ISIS file for the schematic
 
-the datasheet of the CEM3340 chip on which this module is based on is included ad well
+**pannel VCO v1.svg** : SVG file with the dimensions of the pannel
+
+the datasheet of the CEM3340 chip is included ad well
